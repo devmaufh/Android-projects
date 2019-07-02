@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculador IMC</string>
+    <string name="hello">Calcular IMC</string>
+    <string name="peso">Peso (kg)</string>
+    <string name="estatura">Altura (cm)</string>
+    <string name="calcular">Calcular</string>
+    <string name="validaCampos">No puedes dejar las cajas vacías</string>
+    <string name="resultIMC">El IMC es</string>
+</resources>

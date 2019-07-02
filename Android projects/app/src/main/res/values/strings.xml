@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC calculator</string>
+    <string name="hello">Calcular IMC</string>
+    <string name="peso">Weight (kg)</string>
+    <string name="estatura">Height (cm)</string>
+    <string name="calcular">Calculate</string>
+    <string name="validaCampos">You have to fill all text boxes</string>
+    <string name="resultIMC">"IMC: "</string>
+</resources>
