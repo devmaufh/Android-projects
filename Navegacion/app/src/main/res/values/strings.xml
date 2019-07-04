@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="Verde">verde</string>
+    <string name="Nombre">Name</string>
+    <string name="Edad">age</string>
+    <string name="rojo">Rojo</string>
+</resources>
