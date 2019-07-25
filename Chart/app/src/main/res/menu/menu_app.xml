@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/menu_barra"
+            android:enabled="true"
+            android:icon="@drawable/bar"
+            android:title="Barra"
+    />
+    <item
+            android:id="@+id/menu_lineal"
+            android:enabled="true"
+            android:icon="@drawable/line"
+            android:title="Lineal"
+    />
+    <item
+            android:id="@+id/menu_pie"
+            android:enabled="true"
+            android:icon="@drawable/points"
+            android:title="Puntos"
+    />
+</menu>
